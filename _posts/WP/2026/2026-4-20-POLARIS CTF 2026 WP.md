@@ -8412,7 +8412,7 @@ if __name__ == "__main__":
 >
 > 继续观察最终 residual，会发现有四组非常关键的位置掩码：
 >
-> ![](C:\Users\Lenovo\AppData\Roaming\Typora\typora-user-images\image-20260329200759880.png)
+<!-- > ![](C:\Users\Lenovo\AppData\Roaming\Typora\typora-user-images\image-20260329200759880.png) -->
 >
 > ​`map_53 = 1`​ 出现在位置：`1, 7, 10, 16`
 >
@@ -8432,7 +8432,7 @@ if __name__ == "__main__":
 >
 > ​`4`​ → `4, 6, 11, 13`
 >
-> ![](C:\Users\Lenovo\AppData\Roaming\Typora\typora-user-images\image-20260329195638606.png)
+<!-- > ![](C:\Users\Lenovo\AppData\Roaming\Typora\typora-user-images\image-20260329195638606.png) -->
 >
 > 分组排序
 >
