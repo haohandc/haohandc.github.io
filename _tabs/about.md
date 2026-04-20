@@ -3,5 +3,5 @@
 icon: fas fa-info-circle
 order: 4
 ---
-不愿面对的东西终究要面对。
+学习逆向工程中，水平比较菜
 {: .prompt-tip }
