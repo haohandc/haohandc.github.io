@@ -2,7 +2,7 @@
 title: HackMyVM-Flute
 date: "2026-04-03T21:24:24+08:00"
 description: 用于完善渗透知识储备，从部署VM到获取flag。
-categories: [渗透, "2026"]
+categories: [渗透, HackMyVM]
 tags: [HackMyVM, 渗透]
 
 ---
